@@ -1,3 +1,5 @@
 texto original
 un cambio
 hotfix
+solución a iss53 - a
+solución a iss53 - b
